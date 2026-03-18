@@ -37,13 +37,13 @@ It uses statistical techniques like cointegration, hedge ratio estimation, and z
 - Cumulative returns plotted as equity curve
 
 ## Performance Metrics
-The Correlation Coefficient is: 0.922
-cointegration pvalue is: 0.000299
-Hedge Ratio: 0.231
-ADF Statistic: -4.855
-p-value: 4.2550
-Sharpe Ratio: 0.652
-Max Drawdown: -0.0797
+- The Correlation Coefficient is: 0.922
+- cointegration pvalue is: 0.000299
+- Hedge Ratio: 0.231
+- ADF Statistic: -4.855
+- p-value: 4.2550
+- Sharpe Ratio: 0.652
+- Max Drawdown: -0.0797
 ## Key Insights
 - Cointegration ensures mean-reverting behavior
 - Hedge ratio improves spread accuracy vs simple subtraction
